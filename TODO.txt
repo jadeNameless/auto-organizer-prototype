@@ -1,0 +1,5 @@
+ 
+unify the email fetching generators to save time on that subtask
+parallelize the process of moving emails around and creating labels
+spin off boilerplate/nonspecific components into a seperate library so i can reuse them for other email manipulations without having to copy/paste
+use less globals
